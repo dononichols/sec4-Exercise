@@ -1,5 +1,5 @@
 
-// Exercise ___ vid.10
+// Exercise ___ vid.37
 // Max of Two Numbers
 
 // Write a function that takes two numbers and returns the maximum of the two.
